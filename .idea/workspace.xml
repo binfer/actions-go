@@ -86,4 +86,7 @@
       </map>
     </option>
   </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
 </project>
