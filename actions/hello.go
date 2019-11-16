@@ -2,5 +2,5 @@ package actions
 
 func Greet() string {
 
-	return "smoke"
+	return "-smoke"
 }
